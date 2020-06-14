@@ -1,0 +1,13 @@
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.exe
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.deps.json
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.runtimeconfig.json
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.runtimeconfig.dev.json
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.dll
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\bin\Debug\netcoreapp3.1\exercicio-fixação13.pdb
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.csprojAssemblyReference.cache
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.AssemblyInfoInputs.cache
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.AssemblyInfo.cs
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.csproj.CoreCompileInputs.cache
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.dll
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.pdb
+C:\Users\paulo\documents\www\cursoc#\exercicios-curso\exercicio-fixação13\obj\Debug\netcoreapp3.1\exercicio-fixação13.genruntimeconfig.cache
